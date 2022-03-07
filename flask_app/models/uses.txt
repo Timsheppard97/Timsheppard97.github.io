@@ -1,1 +1,0 @@
-This is where all the functions relating towards SQL will be put. There is no plan to implement any SQL into this site so as of now this folder will be blank.
