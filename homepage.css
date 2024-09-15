@@ -19,7 +19,7 @@
 }
 
 #divOne {
-    width: auto;
+    width: 70vw;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -53,4 +53,8 @@
     padding-left: 5px;
     padding-top: 10px;
     text-align: center;
+}
+
+#stickyInfoPanel {
+
 }
