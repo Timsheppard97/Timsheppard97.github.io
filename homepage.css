@@ -6,7 +6,7 @@
 }
 
 .divs {
-    width: 70vw;
+    width: 60%;
     height: 100%;
     margin: auto;
     font-size: 16pt;
@@ -19,21 +19,11 @@
 }
 
 #divOne {
-    width: 70vw;
+    width: 60%;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     height: 100px;
-}
-
-@media (max-width: 600px) {
-    #divOne {
-        width:60vw;
-        display: flex;
-        text-align: center;
-        flex-direction: column;
-        height: 30vh;
-    }
 }
 
 #name {
@@ -53,8 +43,4 @@
     padding-left: 5px;
     padding-top: 10px;
     text-align: center;
-}
-
-#stickyInfoPanel {
-
 }
