@@ -26,16 +26,6 @@
     height: 100px;
 }
 
-@media (max-width: 600px) {
-    #divOne {
-        width:60vw;
-        display: flex;
-        text-align: center;
-        flex-direction: column;
-        height: 30vh;
-    }
-}
-
 #name {
     font-size: 30pt;
 }
